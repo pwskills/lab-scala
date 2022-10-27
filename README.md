@@ -2,4 +2,4 @@
 
 Command to run Hello.scala file:
 
-```scalac Hello.scala```
+```scala Hello.scala```
