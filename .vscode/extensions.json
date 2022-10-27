@@ -1,8 +1,3 @@
 {
-  "recommendations": [
-    "scala-lang.scala",
-    "formulahendry.code-runner",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "VisualStudioExptTeam.intellicode-api-usage-examples"
-  ]
+  "recommendations": ["scala-lang.scala", "formulahendry.code-runner"]
 }
