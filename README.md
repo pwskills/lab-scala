@@ -1,4 +1,4 @@
-# neurolab-scala
+# lab-scala
 
 Command to run Hello.scala file:
 
